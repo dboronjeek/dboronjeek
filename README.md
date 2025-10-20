@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Typ1caal
+- 👋 Hi, I’m @dboronjeek
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning in Faculty of Electrical Engineering, Computer Science and Information Technology Osijek.
-- 📫 How to reach me dominikb.hr@gmail.com
+- 📫 How to reach me dboronjeek@proton.me
